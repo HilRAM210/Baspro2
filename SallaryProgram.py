@@ -1,7 +1,7 @@
 nama = input("Input Nama: ")
 nik = input("Input NIK: ")
 status = input("Input Status (Tetap/Honor): ")
-golongan = input("Input Golongan A/B/C: ")
+golongan = input("Input Golongan (A/B/C): ")
 
 gaji = 0
 bonus = 0
