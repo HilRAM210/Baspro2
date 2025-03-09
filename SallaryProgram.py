@@ -11,9 +11,9 @@ if status == "Tetap" or status == "tetap" or status == "TETAP":
     if golongan == "A" or golongan == "a":
         bonus = 200000
     elif golongan == "B" or golongan == "b":
-        bonus = 200000
+        bonus = 400000
     elif golongan == "C" or golongan == "c":
-        bonus = 200000
+        bonus = 550000
     else:
         print("Golongan Tidak Valid !!!")
         exit()
